@@ -12,8 +12,7 @@
 	Download: http://code.google.com/p/iphone-universal/downloads/list
 	
 	*/
-	
-	
+		
 	body {
 		background: rgb(197,204,211) url(../images/stripes.png);
 		font-family: Garamond;
@@ -24,19 +23,6 @@
 		}
 		
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 		/* standard header on body */
 		
 		div#header + h1, ul + h1 {
@@ -45,8 +31,6 @@
 			text-shadow: #fff 0 1px 0;
 			margin: 15px 0 0 10px;  
 			}
-		
-
 
 		/* standard paragraph on body */
 		
@@ -58,20 +42,6 @@
 			margin: 0 10px 17px 0;
 			}
 
-
-		
-
-
-
-
-
-
-
-
-
-
-
-		
 		/* headers */
 
 		div#header {

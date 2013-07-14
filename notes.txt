@@ -1,5 +1,6 @@
 NEXTSTEPS
 0.  github urbanspectra repos:  uiuikit + sofiasysnyc
+	http://stackoverflow.com/questions/2432764/how-to-change-a-remote-repository-uri-using-git
 	http://stackoverflow.com/questions/5814319/git-submodule-push
 1.  remove DS_STOREs => git ignore
 	http://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository
