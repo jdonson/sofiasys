@@ -21,8 +21,8 @@ SOFIASYS NYC HOME
   | - inventory landing
   |		|- macbook pro i7
   |		|- macbook pro i5
-  | 		|- macbook pro unibody
-  | 		|- macbook pro aluminum
+  | 	|- macbook pro unibody
+  | 	|- macbook pro aluminum
   |
   | - about landing
   | 		|- about
