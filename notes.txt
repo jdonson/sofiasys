@@ -1,0 +1,177 @@
+NEXTSTEPS
+0.  remove DS_STOREs => git ignore
+1.  github urbanspectra repos:  uiuikit + sofiasysnyc
+2.  home, inv landing, i7, i5, uni, alum
+3.  contact, about
+4.  move to www => reference from clist ads
+5.  mobi => dynamic page gen => site gen???
+6.  forms => inventory
+7.  13" uni + i5?
+8.  ebay?
+9.  fliers
+10.bizcards
+
+
+============================
+
+SOFIASYS NYC HOME
+  | 
+  | - inventory landing
+  |		|- macbook pro i7
+  |		|- macbook pro i5
+  | 		|- macbook pro unibody
+  | 		|- macbook pro aluminum
+  |
+  | - about landing
+  | 		|- about
+  | 		|- about author
+  |
+  | - contact
+
+
+
+
+SUPPLY STEPS
+
+1.  query supply
+2.  target supply with offer
+3.  confirm specs and cost from supply target responders
+4.  meet + test
+5.  photograph
+6.  wipe HD + reimage...  RAM Boost?
+7.  post
+8.  sell
+
+
+1.  craigslist ads
+
+=>  https://accounts.craigslist.org/login
+
+	http://newyork.craigslist.org/mnh/sys/3933565436.html => system_i7.php
+
+	http://newyork.craigslist.org/mnh/sys/3933575570.html => system_i5.php
+
+	http://newyork.craigslist.org/mnh/sys/3933639505.html => system_uni.php
+
+	http://newyork.craigslist.org/mnh/sys/3933665223.html => system_alum.php
+
+SOFIASYS NYC HOME
+  | 
+  | - about landing
+  | 		|- about
+  | 		|- about author
+  | 		|- contact?
+  |
+  | - inventory landing
+		|- macbook pro i7
+		|- macbook pro i5
+ 		|- macbook pro unibody
+ 		|- macbook pro aluminum
+
+Apple Store is frame of reference:  http://store.apple.com/us/mac/family/macbook-pro
+
+
+
+title
+cost
+model
+blurb
+pic unit
+pic model
+
+
+
+2.  sofiasys inventory pages
+
+3.  fliers
+
+4.  bizcards
+
+Still available?
+I will gladly test and buy for cash if it has no serious defects.
+ = jeremy => jjdonson@gmail.com / 718-710-9434
+NEW YORK CITY UWS
+
+NewSys
+
+vmware fusion => 16GB MLion Install image?
+
+gmail account for 16GB image storage+sharing
+
+vbox => quickstart vm + installers + training materials => USB HD
+
+http://osxdaily.com/2012/07/26/redownload-os-x-mountain-lion-mac-app-store/
+		option => REpurchase
+		archive installer itself before execution: /Applications/OS X Installer...
+		move both to fw800 install drive
+		install to usb drive
+		move both to usb drive
+		copy installer archive + installer to usb drive
+		verify all images... copy usb=>usb	  
+install to blank fwhd
+	  install from blank fwhd to TBHD => setups....
+	  export bookmarks => google?
+		copy stickiesdb => cloud?evernote
+		keychain exported =>
+		apps
+		media
+
+==============
+
+Still available?
+I will gladly test and buy for cash if it has no serious defects.
+ = jeremy => jjdonson@gmail.com / 718-710-9434
+NEW YORK CITY UWS
+==============
+
+2BUY 2013
+15" / 13"
+flatscreen + arm
+desk chair
+sax case
+
+
+	bkp int CUTTER TB HD to 500 GB HD => data consolidation!!!
+	prepare for legacy STABLE image => move to CUTTER
+	upgrade t0 8GB on CUTTER
+	test, wipe and install mlion on 93GB
+	boot to it
+	updates
+	add installers:  xcode, git, add, textwrangler, trans it drush, percona5.6, puppet.dmg, ruby/python
+	BKP and wipe CUTTER system =>  mlion!!!
+	consider apple server with ext 500GB backup!!
+
+	discuss mlion mediamax dmg file + recipes
+
+LAPTOP: osx+U12+debian+centos+min_local+min_net
+
+	OSX
+		OS
+		OS2USB
+		OS2EXTHD
+		free apps:  skype, irc, transmit, vbox, textwrangler
+		cli tools, xcode, git, drush, repos, apple id, gmail, fb
+
+		memory usage   http://support.apple.com/kb/ht1342
+
+		browsers+bookmarks+access
+		account access info
+
+		adobe tools
+
+		sound tools
+
+		video tools
+
+		dev tools
+
+	U12
+
+USB stuff!
+
+WAN SERVER
+
+LAN SERVER + MEDIA PLAYER!!!
+
+TABLETS
+
